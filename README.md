@@ -61,8 +61,8 @@ to edit the systemd modules. Likewise if your tablets display is not
 
 On Ubuntu 15.04, you may need to create the above directory.
 
-    systemctl start wacom-proximity@username.service
-    systemctl start yoga-rotate@username.service
+    systemctl start wacom-proximity@adam.service
+    systemctl start yoga-rotate@adam.service
     systemctl start yoga-tablet.service
     systemctl start yoga-backlight.service
     
